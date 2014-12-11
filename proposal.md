@@ -1,6 +1,6 @@
 ### Team (your team name here)
 ### Team Members
-* first_name last_name (uniqname)
+* Katherine Vaidya (kavaidya)
 * first_name last_name (uniqname)
 * first_name last_name (uniqname)
 * first_name last_name (uniqname)
